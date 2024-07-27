@@ -15,12 +15,3 @@ Log in with your Notion account and select the database where you want to save y
 
 Sync your highlights:
 Click the 'Sync' button to start syncing your Kindle highlights to the selected Notion database.
-
-Contributing
-We welcome contributions from the community! If you would like to contribute, please follow these steps:
-
-Fork the repository.
-Create a new branch: git checkout -b my-feature-branch.
-Make your changes and commit them: git commit -m 'Add some feature'.
-Push to the branch: git push origin my-feature-branch.
-Submit a pull request.
